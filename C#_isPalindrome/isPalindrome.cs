@@ -27,7 +27,7 @@ namespace ConsoleApp2
             bool isPalindrome = false;                                                                  // a boolean set to false
             string palindrome = "";                                                                     // a string to hold the reversed input
             bool new_try = true;                                                                        // a boolean to control the loop
-            int n_try = 0;                                                                           // a character to hold the user`s input
+            int n_try = 0;                                                                              // a character to hold the user`s input
 
 
 

@@ -59,10 +59,6 @@ namespace Integer_search
 
         #endregion
 
-        private void Input_box_arr_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
         
         
         // list to hold the inputted integers
@@ -155,8 +151,6 @@ namespace Integer_search
 
 
 
-            
-
             // validating the input
             if (!try_parse)
             {
@@ -234,14 +228,6 @@ namespace Integer_search
 
 
         }
-
-
-
-
-
-
-
-
 
 
 
@@ -353,17 +339,6 @@ namespace Integer_search
 
        
 
-
-
-
-
-
- 
-
-        private void Label_Click(object sender, EventArgs e)
-        {
-
-        }
 
       
     }

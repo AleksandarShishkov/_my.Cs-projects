@@ -334,19 +334,6 @@ namespace Complex_numbers
 
 
 
-
-
-
-
-
-
-
-        private void Input_label_2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
         #region Menu_strip
         private void resetToolStripMenuItem_Click(object sender, EventArgs e)
         {

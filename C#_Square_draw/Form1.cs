@@ -23,15 +23,6 @@ namespace New_project
         Square square = new Square();
 
 
-        private void Height_input_box_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Width_input_box_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void Show_button_Click(object sender, EventArgs e)
         {
@@ -144,11 +135,7 @@ namespace New_project
 
         }
 
-        private void Output_label_Click(object sender, EventArgs e)
-        {
-          
 
-        }
 
 
         #region Menu_strip
